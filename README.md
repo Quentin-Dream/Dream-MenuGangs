@@ -1,7 +1,14 @@
 # Dream-MenuGangs
 | Menu pour gangs | FIVEM |
 
-# Screenshot
+# Installation
+- Importer `Dream-MenuGangs` sur votre base
+- Ajoutez ceci dans votre `server.cfg ` ou  `ressources.cfg`:
+
+```
+start Dream-MenuGangs
+```
+Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
 # Menu 
 ![1](https://user-images.githubusercontent.com/101477460/158060093-9c355f70-5c07-4722-a546-87e6be57eb99.PNG)
