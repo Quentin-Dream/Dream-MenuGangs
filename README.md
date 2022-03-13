@@ -3,7 +3,7 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 
 # Installation
 - Importer `Dream-MenuGangs` sur votre base
-- Ajoutez ceci dans votre `server.cfg` ou  `ressources.cfg`:
+- Ajoutez ceci dans votre `server.cfg` ou  `ressources.cfg` :
 
 ```
 start Dream-MenuGangs
@@ -11,6 +11,7 @@ start Dream-MenuGangs
 # Avoir le menu sans reboot :
 - Executer la commande `refresh`
 - Executer la commande `start Dream-MenuGangs`
+- Tous est bon, vous pouvais profiter du menu sans avoir fait de reboot !
 
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
