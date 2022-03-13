@@ -2,6 +2,7 @@
 Bonjour, je vous présente aujourd'hui un menu pour gangs : simple à configurer, complet et personnalisable. Cela a été fait en RageUI et permettra à vos gangs/organisations de faire les actions nécessaires à leurs bon RP.
 
 # Installation
+- Renommer `Dream-MenuGangs-main` en `Dream-MenuGangs`
 - Importer `Dream-MenuGangs` sur votre base
 - Ajoutez ceci dans votre `server.cfg` ou  `ressources.cfg` :
 
