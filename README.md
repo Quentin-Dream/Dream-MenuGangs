@@ -1,5 +1,5 @@
 # Dream-MenuGangs
-Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, complet et personnalisable. Il a été fait en RageUI et permettra a vos gangs/organisation de faire les actions requis a leurs bon RP.
+Bonjour, je vous présente aujourd'hui un menu pour gangs : simple à configurer, complet et personnalisable. Cela a été fait en RageUI et permettra à vos gangs/organisations de faire les actions nécessaires à leurs bon RP.
 
 # Installation
 - Importer `Dream-MenuGangs` sur votre base
@@ -9,16 +9,16 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 start Dream-MenuGangs
 ```
 # Avoir le menu sans reboot :
-- Executer la commande `refresh`
-- Executer la commande `start Dream-MenuGangs`
+- Exécuter la commande `refresh`
+- Exécuter la commande `start Dream-MenuGangs`
 
-Tous est bon, vous pouvais profiter du menu sans avoir besoin de faire de reboot !
+Tout est bon, vous pouvez profiter du menu sans avoir besoin de faire de reboot !
 
 # Avoir le menu après reboot :
-- Il vous suffira juste de faire la partie Installation et de reboot !
+- Tout ce que vous avez à faire est de faire la partie - Installation et de reboot !
 
 
-Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
+En cas de besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
 # Menu 
 ![1](https://user-images.githubusercontent.com/101477460/158060093-9c355f70-5c07-4722-a546-87e6be57eb99.PNG)
@@ -29,9 +29,9 @@ Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
 # Personnalisation :
 
-- Vous avez possibliter de modifier les deux couleur qui change dans le fichier `config.lua`.
-- Vous avez également possibliter de modier les gangs/oragnistaions qui auront accès au menu dans le fichier `config.lua`.
-- Et pour finir, vous avez possibiliter de modifier le nom qui est écrit dans le menu, cela se fera dans le dossier `client` puis le fichier `client.lua` puis à la ligne 117, 118 et 119
+- Vous avez l'option de changer les deux couleurs qui changent dans le fichier `config.lua`.
+- Vous avez également possibilité de modifier les gangs/organisations qui auront accès au menu dans le fichier `config.lua`.
+- Et pour finir, vous avez possibilité de modifier le nom qui est écrit dans le menu, cela se fera dans le dossier `client` puis le fichier `client.lua` puis à la ligne 117, 118 et 119
 
 # Créateur :
 Quentin-Dream#2053
