@@ -8,6 +8,8 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 ```
 start Dream-MenuGangs
 ```
+-Relancez votre serveur et tout est bon !
+
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
 # Menu 
