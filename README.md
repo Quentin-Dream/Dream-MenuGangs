@@ -8,7 +8,8 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 ```
 start Dream-MenuGangs
 ```
--Relancez votre serveur et tout est bon !
+# Avoir le menu sans reboot :
+- executer la commande ```refresh```
 
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
