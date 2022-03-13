@@ -11,7 +11,7 @@ start Dream-MenuGangs
 # Avoir le menu sans reboot :
 - Executer la commande `refresh`
 - Executer la commande `start Dream-MenuGangs`
-- Tous est bon, vous pouvais profiter du menu sans avoir fait de reboot !
+Tous est bon, vous pouvais profiter du menu sans avoir fait de reboot !
 
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
