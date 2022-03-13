@@ -27,5 +27,11 @@ Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 # Menu Fouiller
 ![3](https://user-images.githubusercontent.com/101477460/158060097-008ab79e-8db5-472f-a6a0-def69bc57dec.PNG)
 
+# Personnalisation :
+
+- Vous avez possibliter de modifier les deux couleur qui change dans le fichier `config.lua`.
+- Vous avez également possibliter de modier les gangs/oragnistaions qui auront accès au menu dans le fichier `config.lua`.
+- Et pour finir, vous avez possibiliter de modifier le nom qui est écrit dans le menu, cela se fera dans le dossier `client` puis le fichier `client.lua` puis à la ligne 117, 118 et 119
+
 # Créateur :
 Quentin-Dream#2053
