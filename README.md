@@ -9,7 +9,8 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 start Dream-MenuGangs
 ```
 # Avoir le menu sans reboot :
-- executer la commande ```refresh```
+- Executer la commande `refresh`
+- Executer la commande `start Dream-MenuGangs`
 
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
