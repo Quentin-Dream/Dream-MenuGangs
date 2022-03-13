@@ -3,7 +3,7 @@ Bonjour, je vous présente aujourd'hui un menu pour gangs facile a configurer, c
 
 # Installation
 - Importer `Dream-MenuGangs` sur votre base
-- Ajoutez ceci dans votre `server.cfg ` ou  `ressources.cfg`:
+- Ajoutez ceci dans votre `server.cfg` ou  `ressources.cfg`:
 
 ```
 start Dream-MenuGangs
